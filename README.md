@@ -50,7 +50,7 @@ class Fecha{
 
 ``````
 [title](https://www.markdownguide.org/cheat-sheet/)
-![title](perro.png)
+![title](perro.jpg)
 | Syntax | Description |
 | ------------ | ------------ |
 | Header | Title |
