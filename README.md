@@ -49,8 +49,8 @@ class Fecha{
 #endif
 
 ``````
-[title](https://www.markdownguide.org/cheat-sheet/)
-![title](perro.jpg)
+[Markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
+![Perro con peluca](perro.jpg)
 | Syntax | Description |
 | ------------ | ------------ |
 | Header | Title |
