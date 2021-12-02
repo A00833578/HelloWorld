@@ -1,5 +1,5 @@
 ## HelloWorld
-# Valeria López Barcelata A00833578
+# Valeria López Barcelata A00833578 & Juan Pablo Sada San José A01722098
 TC1033 Grupo 2: laboratorio, branch, commits, pull request, merge, markdown
 
 **bold text**
