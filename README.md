@@ -50,7 +50,7 @@ class Fecha{
 
 ``````
 [Markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
-![Perro con peluca](perro.jpg)
+![Perro con peluca rosa](perro.jpg)
 | Syntax | Description |
 | ------------ | ------------ |
 | Header | Title |
