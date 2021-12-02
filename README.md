@@ -50,4 +50,12 @@ class Fecha{
 
 ``````
 [title](https://www.markdownguide.org/cheat-sheet/)
-![title]()
+![title](perro.png)
+| Syntax | Description |
+| ------------ | ------------ |
+| Header | Title |
+
+- [x] Enchiladas
+- [ ] Huevo Ranchero
+- [ ] Tamales
+
